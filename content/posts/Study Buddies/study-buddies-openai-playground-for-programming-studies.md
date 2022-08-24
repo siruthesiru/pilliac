@@ -6,7 +6,6 @@ author = ""
 categories = ["Study Buddies"]
 date = 2022-08-23T16:00:00Z
 description = "But, much like everything, there is a catch."
-draft = false
 series = []
 tags = ["Guides"]
 title = "Study Buddies: OpenAI Playground for Programming Studies"
@@ -137,6 +136,8 @@ so, you'd then enable yourself with the ability to use this powerful tool to its
 
 I would also like to suggest using it in conjunction with other tools such as an IDE in which you can copy and paste the
 generated code into, attempt to compile it, and let the IDE do the error detection for you.
+
+![](/uploads/valgrind.webp)
 
 For learning C, I would really recommend [CLion by JetBrains](https://www.jetbrains.com/clion/) as it is a complete IDE
 with a built in compiler, very accurate and descriptive pre-compilation error messages and highlighting (especially good
