@@ -137,7 +137,7 @@ so, you'd then enable yourself with the ability to use this powerful tool to its
 I would also like to suggest using it in conjunction with other tools such as an IDE in which you can copy and paste the
 generated code into, attempt to compile it, and let the IDE do the error detection for you.
 
-![](/uploads/valgrind.webp)
+![Clion with a Valgrind instance post-compilation.](/uploads/clion.png "Clion with a Valgrind instance post-compilation.")
 
 For learning C, I would really recommend [CLion by JetBrains](https://www.jetbrains.com/clion/) as it is a complete IDE
 with a built in compiler, very accurate and descriptive pre-compilation error messages and highlighting (especially good
