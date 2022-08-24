@@ -12,7 +12,7 @@ privacy:
     simple: true
 
   twitter:
-    disabled: false
+    disabled: true
     enableDNT: true
     simple: true
     disableInlineCSS: true
