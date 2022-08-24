@@ -29,9 +29,7 @@ Basically, OpenAI is an artificial intelligence toolset. Playground, in particul
 [completions](https://beta.openai.com/docs/api-reference/completions) endpoint (remote code) which lets us input a prompt
 which the bot attempts to answer or complete within the provided context.
 
-![OpenAI](/img/in-post/2022/ai.webp)
-*OpenAI Playground working with instructions*
-{:.desc}
+
 
 ## Playground In Action
 
