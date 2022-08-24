@@ -10,6 +10,8 @@ buildFuture: true
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
+# googleAnalytics: G-XQ9FP8WSGT
+
 minify:
   disableXML: true
 languages:
@@ -103,6 +105,7 @@ markup:
   highlight:
     noClasses: false
     style: gruvbox-dark
+
 privacy:
   vimeo:
     disabled: false
