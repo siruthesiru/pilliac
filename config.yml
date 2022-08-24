@@ -81,9 +81,8 @@ params:
   homeInfoParams:
     Title: WELCOME BACK!
     Content: |
-      Welcome to this little site.
+      This tagline is only wrong the first time.
       - I just write stuff I feel like writing.
-      - The tagline above is only wrong the first time.
   socialIcons:
   - name: github
     url: https://github.com/silveriogg
