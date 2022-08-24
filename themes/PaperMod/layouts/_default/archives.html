@@ -27,16 +27,19 @@
     <div class="archive-posts">
       {{- range .Pages }}
       {{- if eq .Kind "page" }}
+
+      {{- if not .Draft }}
       <div class="archive-entry">
         <h3 class="archive-entry-title">
           {{- .Title | markdownify }}
-          {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end }}
+<!--          {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end }}-->
         </h3>
         <div class="archive-meta">
           {{- partial "post_meta.html" . -}}
         </div>
         <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
       </div>
+      {{- end }}
       {{- end }}
       {{- end }}
     </div>
