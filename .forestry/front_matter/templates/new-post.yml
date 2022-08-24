@@ -32,5 +32,3 @@ fields:
 - type: boolean
   name: TocOpen
   label: TocOpen
-pages:
-- content/posts/study-buddies-openai-playground-for-programming-studies.md
