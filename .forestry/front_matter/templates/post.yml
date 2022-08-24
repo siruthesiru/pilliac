@@ -17,3 +17,5 @@ fields:
 - type: boolean
   name: ShowBreadCrumbs
   label: ShowBreadCrumbs
+pages:
+- content/posts/study-buddies-openai-playground-for-programming-studies.md
