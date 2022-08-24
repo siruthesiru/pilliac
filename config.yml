@@ -83,7 +83,7 @@ params:
     Content: |
       Welcome to this little site.
       - I just write stuff I feel like writing.
-      - The tagline above is only wrong one time.
+      - The tagline above is only wrong the first time.
   socialIcons:
   - name: github
     url: https://github.com/silveriogg
