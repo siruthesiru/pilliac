@@ -1,0 +1,14 @@
+<figure {{ with .Get "class" }}class="{{ . }}"{{ end }} style="text-align: center;">
+    {{ with .Get "cover" }}<img src="{{ . | relURL }}" alt="Song's cover image" height="300" style="width: 300px; display: block;
+  margin-left: auto;
+  margin-right: auto;">{{ end }}
+    <audio controls style="width: 300px" preload="{{ .Get "preload" | default "metadata" }}">
+    {{ with .Get "src" }}<source src="{{ . | relURL }}" type="audio/mpeg">{{ end }}
+    </audio>
+    {{ with .Get "caption" }}<figcaption style="margin-top: 2px;
+                        font-style: italic;
+                        text-align: center;
+                        font-weight: normal;
+                        font-size: .8rem;
+                        opacity: 75%">{{ . }}</figcaption>{{ end }}
+</figure>

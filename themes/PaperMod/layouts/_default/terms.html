@@ -44,7 +44,12 @@
 {{- range $pages.GroupByPublishDate "2006" }}
     {{- range .Pages.GroupByDate "2006" }}
     <div class="archive-month">
+        {{- if ne .Key "0001" }}
         <h3 class="archive-month-header">{{- .Key }}<sup class="archive-count">&nbsp;&nbsp;{{ len .Pages }}</sup></h3>
+        {{- else}}
+        <h3 class="archive-month-header">Undated<sup class="archive-count">{{ len .Pages }}</sup></h3>
+        {{- end }}
+
         <div class="archive-posts">
             {{- range .Pages }}
             {{- if eq .Kind "page" }}
