@@ -24,18 +24,22 @@ languages:
       series: series
     menu:
       main:
-      - name: Archive
-        url: archives
-        weight: "5"
+#      - name: Archive
+#        url: archives
+#        weight: "5"
       - name: Search
         url: search/
         weight: "10"
       - name: Tags
         url: tags/
-        weight: "7"
+        weight: "2"
       - name: About
         url: about/
-        weight: "2"
+        weight: "1"
+      - name: Categories
+        url: categories/
+        weight: "3"
+
 outputs:
   home:
   - HTML
@@ -57,16 +61,16 @@ params:
   comments: true
   images:
   - icon.png
-  profileMode:
-    enabled: false
-    title: PaperMod
-    imageUrl: "#"
-    imageTitle: my image
-    buttons:
-    - name: Archives
-      url: archives
-    - name: Tags
-      url: tags
+#  profileMode:
+#    enabled: false
+#    title: PaperMod
+#    imageUrl: "#"
+#    imageTitle: my image
+#    buttons:
+#    - name: Archives
+#      url: archives
+#    - name: Tags
+#      url: tags
   aboutPage:
     enabled: true
     title: PILLIAC

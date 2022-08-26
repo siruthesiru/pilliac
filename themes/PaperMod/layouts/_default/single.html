@@ -20,13 +20,20 @@
       {{- partial "post_canonical.html" . -}}
 
     </div>
+    {{- $categories := .Language.Params.Taxonomies.category | default "categories" }}
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
     <ul class="post-tags">
+      {{- range ($.GetTerms $categories) }}
+      <li><strong><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></strong></li>
+      {{- end }}
+      <li style="opacity: 50%">|</li>
       {{- range ($.GetTerms $tags) }}
-      <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+      <li><a href="{{ .Permalink }}">#{{ .LinkTitle }}</a></li>
       {{- end }}
     </ul>
     {{- end }}
+
+
   </header>
   {{- $isHidden := .Params.cover.hidden | default site.Params.cover.hiddenInSingle | default site.Params.cover.hidden }}
   {{- partial "cover.html" (dict "cxt" . "IsHome" false "isHidden" $isHidden) }}
