@@ -1,0 +1,15 @@
+<figure {{ with .Get "class" }}class="{{ . }}"{{ end }} style="text-align: center;">
+    {{ with .Get "src"}}<img src="{{ . | relURL }}" alt="picoCAD animation" height="300" style="width: 300px; display: block;
+                          margin-left: auto;
+                          margin-right: auto;">{{ end }}
+    {{ with .Get "title"}}
+    <figcaption style="margin-top: 2px;
+                        font-style: italic;
+                        text-align: center;
+                        font-weight: normal;
+                        font-size: .8rem;
+                        opacity: 75%">
+        {{ . }}
+    </figcaption>
+    {{ end }}
+</figure>

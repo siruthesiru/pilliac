@@ -2,16 +2,15 @@
 ShowToc = true
 TocOpen = false
 aliases = ["playground", "ai", "study buddy"]
-author = ""
-categories = ["Study Buddies"]
+author = "Pilliac"
+categories = ["Articles"]
 date = 2022-08-23T16:00:00Z
 description = "But, much like everything, there is a catch."
 series = []
 tags = ["Guides", "Programming"]
 title = "Generating Sample Code With OpenAI Playground"
-
 +++
-Some feller in a "Ways To Help You Study" video on the tube would probably tell you about tools that they wish they knew
+Some fella in a "Ways To Help You Study" video on the tube would probably tell you about tools that they wish they knew
 about when they were learning about stuff.
 
 Fortunately for me, I found about this little study buddy smack-dab in the middle of my college "career" and fortunately
