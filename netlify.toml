@@ -1,0 +1,19 @@
+[[headers]]
+  for = "*.js" # js files should be set this way
+  [headers.values]
+    Cache-Control = "public, s-maxage=604800"
+
+[[headers]]
+  for = "*.png" # js files should be set this way
+  [headers.values]
+    Cache-Control = "public, s-maxage=604800"
+
+[[headers]]
+  for = "*.woff2" # js files should be set this way
+  [headers.values]
+    Cache-Control = "public, s-maxage=604800"
+
+[[headers]]
+  for = "*.ico" # js files should be set this way
+  [headers.values]
+    Cache-Control = "public, s-maxage=604800"
