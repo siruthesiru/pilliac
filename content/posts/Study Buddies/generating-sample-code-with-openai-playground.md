@@ -7,8 +7,8 @@ categories = ["Study Buddies"]
 date = 2022-08-23T16:00:00Z
 description = "But, much like everything, there is a catch."
 series = []
-tags = ["Guides"]
-title = "Study Buddies: OpenAI Playground for Programming Studies"
+tags = ["Guides", "Programming"]
+title = "Generating Sample Code With OpenAI Playground"
 
 +++
 Some feller in a "Ways To Help You Study" video on the tube would probably tell you about tools that they wish they knew
@@ -29,7 +29,7 @@ Basically, OpenAI is an artificial intelligence toolset. Playground, in particul
 [completions](https://beta.openai.com/docs/api-reference/completions) endpoint (remote code) which lets us input a prompt
 which the bot attempts to answer or complete within the provided context.
 
-![OpenAI in action](/uploads/ai.webp)
+![OpenAI in action](/uploads/ai.webp "OpenAI in action")
 
 ## Playground In Action
 
@@ -42,7 +42,7 @@ typedef struct node{
     struct node *link;
 } *List;
 
-// Given the definition in C, write the code for the function insertNode() 
+// Given the definition in C, write the code for the function insertNode()
 // where the function inserts a new node at the end of the given list.
 ```
 

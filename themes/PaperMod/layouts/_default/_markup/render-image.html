@@ -1,1 +1,15 @@
-<img loading="lazy" src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title}} title="{{ . }}" {{ end }} />
+{{ if .Title }}
+<figure style="margin: 2rem 0 2rem 0">
+    <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" style="padding-bottom: 0; margin-bottom: 0">
+    <figcaption style="margin-top: 2px;
+                        font-style: italic;
+                        text-align: center;
+                        font-weight: normal;
+                        font-size: .8rem;
+                        opacity: 75%">
+                        {{ .Title }}
+    </figcaption>
+</figure>
+{{ else }}
+<img src="{{ .Destination | safeURL }}" alt="{{ .Text }}">
+{{ end }}
