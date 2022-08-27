@@ -1,0 +1,93 @@
+<figure {{ with .Get "class" }}class="{{ . }}"{{ end }}
+style="width: 100%;
+display: table;">
+
+    <div style="display: table-cell; padding: 0 3px 0 3px;">
+        {{ with .Get "src1" }}<img src="{{ . | relURL }}" alt="Album's cover image"
+                                   style="width: 200px; margin-left: auto; margin-top: 0; margin-bottom: 5px;
+                                   margin-right: auto;">{{ end }}
+        {{ with .Get "name1" }}<figcaption style="margin-top: 0;
+                        padding-left: 1px;
+                        padding-right: 1px;
+                        text-align: center;
+                        font-weight: bold;
+                        font-size: .8rem;
+                        opacity: 75%">{{ . }}</figcaption>{{ end }}
+
+        {{ with .Get "artist1" }}<figcaption style="margin-top: 0;
+                        padding-left: 1px;
+                        padding-right: 1px;
+                        text-align: center;
+                        font-weight: normal;
+                        font-size: .8rem;
+                        opacity: 75%">{{ . }}</figcaption>{{ end }}
+
+    </div>
+
+    <div style="display: table-cell; padding: 0 3px 0 3px;">
+        {{ with .Get "src2" }}<img src="{{ . | relURL }}" alt="Album's cover image"
+                                   style="width: 200px; margin-left: auto; margin-top: 0; margin-bottom: 5px;
+                                       margin-right: auto;">{{ end }}
+        {{ with .Get "name2" }}<figcaption style="margin-top: 0;
+                            padding-left: 1px;
+                            padding-right: 1px;
+                            text-align: center;
+                            font-weight: bold;
+                            font-size: .8rem;
+                            opacity: 75%">{{ . }}</figcaption>{{ end }}
+
+        {{ with .Get "artist2" }}<figcaption style="margin-top: 0;
+                            padding-left: 1px;
+                            padding-right: 1px;
+                            text-align: center;
+                            font-weight: normal;
+                            font-size: .8rem;
+                            opacity: 75%">{{ . }}</figcaption>{{ end }}
+
+    </div>
+
+    <div style="display: table-cell; padding: 0 3px 0 3px;">
+        {{ with .Get "src3" }}<img src="{{ . | relURL }}" alt="Album's cover image"
+                                   style="width: 200px; margin-left: auto; margin-top: 0; margin-bottom: 5px;
+                                           margin-right: auto;">{{ end }}
+        {{ with .Get "name3" }}<figcaption style="margin-top: 0;
+                                padding-left: 1px;
+                                padding-right: 1px;
+                                text-align: center;
+                                font-weight: bold;
+                                font-size: .8rem;
+                                opacity: 75%">{{ . }}</figcaption>{{ end }}
+
+        {{ with .Get "artist3" }}<figcaption style="margin-top: 0;
+                                padding-left: 1px;
+                                padding-right: 1px;
+                                text-align: center;
+                                font-weight: normal;
+                                font-size: .8rem;
+                                opacity: 75%">{{ . }}</figcaption>{{ end }}
+
+    </div>
+
+    <div style="display: table-cell; padding: 0 3px 0 3px;">
+        {{ with .Get "src4" }}<img src="{{ . | relURL }}" alt="Album's cover image"
+                                   style="width: 200px; margin-left: auto; margin-top: 0; margin-bottom: 5px;
+                                               margin-right: auto;">{{ end }}
+        {{ with .Get "name4" }}<figcaption style="margin-top: 0;
+                                    padding-left: 1px;
+                                    padding-right: 1px;
+                                    text-align: center;
+                                    font-weight: bold;
+                                    font-size: .8rem;
+                                    opacity: 75%">{{ . }}</figcaption>{{ end }}
+
+        {{ with .Get "artist4" }}<figcaption style="margin-top: 0;
+                                    padding-left: 1px;
+                                    padding-right: 1px;
+                                    text-align: center;
+                                    font-weight: normal;
+                                    font-size: .8rem;
+                                    opacity: 75%">{{ . }}</figcaption>{{ end }}
+
+    </div>
+
+</figure>
