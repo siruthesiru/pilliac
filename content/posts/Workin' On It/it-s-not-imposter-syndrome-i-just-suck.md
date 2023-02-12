@@ -9,7 +9,7 @@ description = "Thoughts on straight up sucking and not being good at what I do."
 draft = true
 series = []
 tags = ["Negative Thoughts"]
-title = "I Suck At What I Do And That's Not Ok"
+title = "Thought Bubbles: I Suck At What I Do And That's Not Ok"
 
 +++
 ## **Do I Really Suck?**
