@@ -3,12 +3,12 @@ ShowToc = false
 TocOpen = false
 aliases = []
 author = ""
-categories = ["Reflections"]
+categories = ["Thought Bubbles"]
 date = 2023-02-12T16:00:00Z
 description = "Thoughts on straight up sucking and not being good at what I do."
 draft = true
 series = []
-tags = ["Negative Thoughts"]
+tags = ["Reflection", "Negative"]
 title = "Thought Bubbles: I Suck At What I Do And That's Not Ok"
 
 +++
