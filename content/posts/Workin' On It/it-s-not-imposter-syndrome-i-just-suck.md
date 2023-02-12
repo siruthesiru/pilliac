@@ -20,4 +20,4 @@ Yes. Yes, I do.
 
 If realizing how bad you actually are at a thing is half the battle then actually getting better at it is like eight halves.
 
-Enrolled to the University of 
+Enrolled to the University of Helsinki's Full Stack Open Course.
