@@ -1,0 +1,24 @@
+{
+  "name": "pilliac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siruthesiru/pilliac.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siruthesiru/pilliac/issues"
+  },
+  "homepage": "https://github.com/siruthesiru/pilliac#readme",
+  "dependencies": {
+    "@tinacms/cli": "^1.1.0",
+    "tinacms": "^1.2.0"
+  }
+}
