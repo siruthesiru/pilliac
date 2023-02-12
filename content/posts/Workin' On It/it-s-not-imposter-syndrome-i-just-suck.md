@@ -16,6 +16,10 @@ title = "I Suck At What I Do And That's Not Ok"
 
 Yes. Yes, I do.
 
+## Why Do I Suck?
+
+Lack of initiative. Genuinely thought I was better than I was (not knowing anything at all).
+
 ## How Do I Deal With This?
 
 If realizing how bad you actually are at a thing is half the battle then actually getting better at it is like eight halves.
