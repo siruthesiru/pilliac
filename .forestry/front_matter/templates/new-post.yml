@@ -32,3 +32,5 @@ fields:
 - type: boolean
   name: TocOpen
   label: TocOpen
+pages:
+- content/posts/Workin' On It/it-s-not-imposter-syndrome-i-just-suck.md
