@@ -1,14 +1,14 @@
 +++
 ShowToc = false
 TocOpen = false
-aliases = []
+aliases = ["Imposter Syndrome"]
 author = ""
-categories = []
+categories = ["Learning"]
 date = 2023-02-12T16:00:00Z
 description = "A simple realization."
 draft = true
 series = []
-tags = []
+tags = ["Personal"]
 title = "It's Not Imposter Syndrome - I Just Suck!"
 
 +++
