@@ -5,10 +5,10 @@ aliases = ["Imposter Syndrome"]
 author = ""
 categories = ["Learning"]
 date = 2023-02-12T16:00:00Z
-description = "A simple realization."
+description = "Thoughts on straight up sucking and not being good at what I do."
 draft = true
 series = []
 tags = ["Personal"]
-title = "It's Not Imposter Syndrome - I Just Suck!"
+title = "Dealing With NOT Imposter Syndrome"
 
 +++
