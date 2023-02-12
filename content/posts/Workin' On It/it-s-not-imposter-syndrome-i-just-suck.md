@@ -2,7 +2,7 @@
 ShowToc = false
 TocOpen = false
 aliases = []
-author = ""
+author = "Pilliac"
 categories = ["Thought Bubbles"]
 date = 2023-02-12T16:00:00Z
 description = "Thoughts on straight up sucking and not being good at what I do."
