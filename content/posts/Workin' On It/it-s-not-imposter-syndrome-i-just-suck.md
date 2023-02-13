@@ -16,7 +16,7 @@ title = "Thought Bubbles: I Suck At What I Do And That's Not Ok"
 
 Yes. Yes, I do.
 
-After a year or so of not actually developing anything worthwile besides little scripts for most of the more theoretical courses I took for uni, I've found myself incapable of even STARTING a project I want to do now.
+After a year or so of not actually developing anything worthwile (the last time I touched this site's code was August 23, 2022) besides little scripts for most of the more theoretical courses I took for uni, I've found myself incapable of even STARTING a project I want to do now.
 
 I haven't really given this as much thought and even told myself that I could just start re-learning all the stuff I've lost by working on little hobby projects until the unthinkable happened: I got referred to a job.
 
