@@ -36,7 +36,9 @@ Long story short, I tried all I could trying to learn and develop the system at 
 
 I think I suck because I thought I didn't suck. This is apparently a pretty common thing for people who've peaked in high-school. I genuinely thought that I had the ability to learn any language and any framework I wanted within a short period of time when, realistically, I could learn one within three months at minimum.
 
-My friends think I'm being way to hard on myself by thinking I suck in the first place but that's only because I talk such a big game despite not even having a ticket to the game.
+Because of this, I haven't even attempted to work on code for more than a year because I was too much of a nincompoop to realize I had about zero percent knowledge about development now - the equivalence of majorly sucking.
+
+I've told some of my friends the whole story and they think I'm being way too hard on myself by thinking I suck in the first place but that's only because I talk such a big game despite not even having a ticket to the game.
 
 With all of this in mind, I'm going to actually try to work on my career this time. I want to be who I've always thought I was: a genuinely good developer who doesn't suck.
 
@@ -45,6 +47,10 @@ With all of this in mind, I'm going to actually try to work on my career this ti
 Now that the oversharing is out of the way, it's time to plan out the pathway to Not-Sucking Town and if realizing how bad you actually are at a thing is half the battle then actually getting better at it has got to be like eight halves.
 
 ### Preparing A Proper Development Environment
+
+I'm back on a Linux machine, baby. No more spending days on a single-player simulation game or outdated dependencies.
+
+I've spent a lot (and by a lot I mean A LOT) of time in the previous years picking the flashiest Linux distribution and the most convoluted \[IDEs\]([https://www.redhat.com/en/topics/middleware/what-is-ide](https://www.redhat.com/en/topics/middleware/what-is-ide "https://www.redhat.com/en/topics/middleware/what-is-ide"))
 
 ### Choosing The Right Course
 
