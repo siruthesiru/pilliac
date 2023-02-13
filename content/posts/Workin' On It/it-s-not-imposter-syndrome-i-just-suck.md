@@ -42,4 +42,12 @@ With all of this in mind, I'm going to actually try to work on my career this ti
 
 Now that the oversharing is out of the way, it's time to plan out the pathway to Not-Sucking Town and if realizing how bad you actually are at a thing is half the battle then actually getting better at it has got to be like eight halves.
 
+### Preparing A Proper Development Environment
+
+### Choosing The Right Course
+
+### Building Projects
+
+### Giving Myself Time
+
 Enrolled to the University of Helsinki's Full Stack Open Course.
