@@ -50,7 +50,7 @@ Now that the oversharing is out of the way, it's time to plan out the pathway to
 
 I'm back on a Linux machine, baby. No more spending days on a single-player simulation game or outdated dependencies.
 
-I've spent a lot (and by a lot I mean A LOT) of time in the previous years picking the flashiest Linux distribution and the most convoluted \[IDEs\]([https://www.redhat.com/en/topics/middleware/what-is-ide](https://www.redhat.com/en/topics/middleware/what-is-ide "https://www.redhat.com/en/topics/middleware/what-is-ide"))
+I've spent a lot (and by a lot I mean A LOT) of time in the previous years picking the flashiest Linux distribution and the most convoluted \[IDEs\]({{ref "[https://www.redhat.com/en/topics/middleware/what-is-ide](https://www.redhat.com/en/topics/middleware/what-is-ide "https://www.redhat.com/en/topics/middleware/what-is-ide")"}})
 
 ### Choosing The Right Course
 
