@@ -32,10 +32,14 @@ Long story short, I tried all I could trying to learn and develop the system at 
 
 ## Why I Suck
 
-I think I suck because I thought I didn't suck. This is apparently a pretty common thing for people who've peaked in high-school. 
+I think I suck because I thought I didn't suck. This is apparently a pretty common thing for people who've peaked in high-school. I genuinely thought that I had the ability to learn any language and any framework I wanted within a short period of time when, realistically, I could learn one within three months at minimum.
+
+My friends think I'm being way to hard on myself by thinking I suck in the first place but that's only because I talk such a big game despite not even having a ticket to the game.
+
+With all of this in mind, I'm going to actually try to work on my career this time. I want to be who I've always thought I was: a genuinely good developer who doesn't suck.
 
 ## How I'm Going To Deal With Sucking
 
-If realizing how bad you actually are at a thing is half the battle then actually getting better at it is like eight halves.
+Now that the oversharing is out of the way, it's time to plan out the pathway to Not-Sucking Town and if realizing how bad you actually are at a thing is half the battle then actually getting better at it has got to be like eight halves.
 
 Enrolled to the University of Helsinki's Full Stack Open Course.
