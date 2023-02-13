@@ -1,5 +1,5 @@
 +++
-ShowToc = false
+ShowToc = true
 TocOpen = false
 aliases = []
 author = "Pilliac"
