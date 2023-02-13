@@ -38,7 +38,7 @@ languages:
         weight: "1"
       - name: Posts
         url: posts/
-        weight: "2"
+        weight: "2"s
 
 outputs:
   home:

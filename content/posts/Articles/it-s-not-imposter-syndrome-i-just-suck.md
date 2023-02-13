@@ -1,7 +1,7 @@
 +++
 ShowToc = true
 TocOpen = false
-aliases = []
+aliases = ["thought bubbles", "sucking", "i suck"]
 author = "Pilliac"
 categories = ["Thought Bubbles"]
 date = 2023-02-12T16:00:00Z
