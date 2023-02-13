@@ -24,11 +24,15 @@ I haven't really given this as much thought and even told myself that I could ju
 
 The job that was offered to me had everything I've ever dreamed of: I was gonna get paid a bit more than most companies would have offered a 3rd year college student, I got to work under someone I respected a lot and would have had no problem being my mentor, the office was only a few kilometers away from uni which didn't even matter much since they told me I could work from home AND could work at any time of the day, and one of my best friends since senior high school was gonna be working in the same office with me.
 
-The interviewer/boss gave me the simplest of tasks: to build an adjustable queue ticketing system similar to the one that my school had for the accounting department.
+The interviewer/boss gave me the simplest of tasks: to build an adjustable queue ticketing system similar to the one that my school had for the accounting department and submit the work with proper documentation within a week. 
+
+Almost immediately after I was given the instructions, I realized that this project wasn't simple at all. I had unlearned everything I knew about web development and my dumb ass even though to give myself a challenge - A CHALLENGE - by developing the entire project with a JavaScript framework that I have never in my life seen anyone work with let alone work with it myself. Heck, I wasn't even that good with JavaScript in the slightest being an avid fan of PHP development my entire college life.
+
+Long story short, I tried all I could trying to learn and develop the system at the same time and ended up crashing and burning and apologizing to the boss for wasting their time. What. A. Joke.
 
 ## Why I Suck
 
-Lack of initiative. Genuinely thought I was better than I was (not knowing anything at all).
+I think I suck because I thought I didn't suck. This is apparently a pretty common thing for people who've peaked in high-school. 
 
 ## How I'm Going To Deal With Sucking
 
