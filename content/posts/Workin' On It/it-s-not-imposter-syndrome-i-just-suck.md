@@ -12,7 +12,7 @@ tags = ["Reflection", "Negative"]
 title = "Thought Bubbles: I Suck At What I Do And That's Not Ok"
 
 +++
-Shout-out to Dan. Sorry I couldn't work with you, bud.
+Shout-out to Dan. I'm sorry I can't work with you, bud.
 
 ## **I Really Do Suck**
 
