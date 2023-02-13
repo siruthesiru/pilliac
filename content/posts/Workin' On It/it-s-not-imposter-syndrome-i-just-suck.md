@@ -12,6 +12,8 @@ tags = ["Reflection", "Negative"]
 title = "Thought Bubbles: I Suck At What I Do And That's Not Ok"
 
 +++
+Shout-out to Dan. Sorry I couldn't work with you, bud.
+
 ## **I Really Do Suck**
 
 Yes. Yes, I do.
