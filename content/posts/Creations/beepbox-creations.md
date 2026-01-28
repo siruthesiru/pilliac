@@ -17,7 +17,7 @@ The chiptune tunes in this post were created using the free online tool for sket
 
 # Something About Us (by Daft Punk)
 
-{{<audio src="/audio/somethingaboutus.wav" caption="Chiptune cover of Something About Us" cover="/audio/somethingaboutus.png">}}
+{{<audio src="/audio/somethingaboutus.mp3" caption="Chiptune cover of Something About Us" cover="/audio/somethingaboutus.png">}}
 
 One of my favorite songs from their 2001 album "Discovery". This tune is played on piano and can be heard throughout the 
 whole song. You can listen to it [here](https://open.spotify.com/track/1NeLwFETswx8Fzxl2AFl91?si=124d258dd9174894).
